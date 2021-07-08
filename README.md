@@ -3,3 +3,5 @@ Hi, I just use GitHub for website hosting right now. I am new to GitHub and webs
 I'm also known as AwesomePlayerAl, APA Skype, and ProcodeAH116
 
 My website is https://ainyaku.com/
+
+Discussion area for my profile: https://github.com/Ainyaku/Ainyaku/discussions
